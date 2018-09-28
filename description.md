@@ -30,7 +30,7 @@ Para utilizar el indice, se debe indicar el número correspondiente a la posicio
 # 0  1  2  3   4     5
 [-4, 1, 5, 10, 33, -10][3]
 ``` 
-    _Salida:_
+_Salida:_
 **> 10**
 
 ``` python
