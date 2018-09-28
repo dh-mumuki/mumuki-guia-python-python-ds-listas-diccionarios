@@ -21,7 +21,7 @@ Veamos como se puede declarar una lista:
 ```
 En esta demostración declaramos 4 listas, una con enteros, otra con strings, una lista vacía y una con tipos de datos mixtos.
 
-En python las listas pueden contener t
+En python las listas pueden contener distintos tipos de datos.
 
 
 #### Accediendo a los elementos dentro de una lista
