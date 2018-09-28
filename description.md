@@ -24,7 +24,7 @@ Cada elemento dentro de una lista tiene una posición y es posible referirse a u
 
 Para acceder a uno de estos elementos se debe numerar cada elemento de la lista desde cero, o sea el primer elemento es el elemento 0, el segundo 1, y asi sucesivamente, este número se conoce como índice.
 
-Para utilizar el indice, se debe indicar el número correspondiente a la posicion del elemento y ubicarlo dentro de dos corchetes `[n°]`
+Para utilizar el indice, se debe indicar el número correspondiente a la posicion del elemento y ubicarlo dentro de dos corchetes `[lista][n°elemento]`
 
 ``` python
 # 0  1  2  3   4     5
