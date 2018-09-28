@@ -71,7 +71,9 @@ lista_enteros[0:5:1]
 _Salida:_
 **> [-4, 1, 5, 10, 33]**
 
-En éste slice no se observa el elemento -10 que ocupa la posición 5
+A diferencia del llamado al índice, el slicing devuelve una sublista de elementos.
+
+En éste slice no se observa el elemento -10 que ocupa la posición 5, esto es porque el último elemento señalado no se incluye.
 
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
@@ -81,4 +83,4 @@ lista_enteros[0:5:2]
 _Salida:_
 **> [-4, 5, 33]**
 
-A diferencia del llamado al índice, en el slicing se devuelve una sublista
+
