@@ -61,11 +61,24 @@ lista_enteros[0]
 _Salida:_
 **> -4**
 
-
-Como habíamos comentado también es posible acceder a un conjunto de éstos elementos, a este recurso se le conoce como slicing, para hacer un slicing debemos indicar dentro de dos corchetes y separado por dos puntos,  el elemento de inicio, el de final y el salto, `[lista][inicio:fin:salto]`, veamos algunos ejemplos
+Como habíamos comentado también es posible acceder a un conjunto de éstos elementos, a este recurso se le conoce como slicing, para hacer un slicing debemos indicar dentro de dos corchetes y separado por dos puntos,  el elemento de inicio, el de final (no se incluye) y el salto, `[lista][inicio:fin:salto]`, veamos algunos ejemplos
 
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 
-lista_enteros[0]
+lista_enteros[0:5:1]
 ``` 
+_Salida:_
+**> [-4, 1, 5, 10, 33]**
+
+En éste slice no se observa el elemento -10 que ocupa la posición 5
+
+``` python
+lista_enteros = [-4, 1, 5, 10, 33, -10]
+
+lista_enteros[0:5:2]
+``` 
+_Salida:_
+**> [-4, 5, 33]**
+
+A diferencia del llamado al índice, en el slicing se devuelve una sublista
