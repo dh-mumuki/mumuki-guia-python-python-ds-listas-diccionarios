@@ -154,3 +154,7 @@ _Salida:_
 **> [3, 2, 2.5,  5]**
 
 
+## Estructura de datos: Listas
+
+Los diccionarios al igual que las listas, permiten mantener elementos dentro de una estructura, pero a diferencia de las listas, los elementos dentro de un diccionario no poseen un orden de precedencia intencionado, esto significa, que uno no accede a los elementos con un índice de posición, en los diccionarios se accede por una **llave**.
+
