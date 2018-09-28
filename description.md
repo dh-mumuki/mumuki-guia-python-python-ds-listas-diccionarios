@@ -65,7 +65,7 @@ Como habíamos comentado también es posible acceder a un conjunto de éstos ele
 
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
-
+#lista[inicio:fin:salto]
 lista_enteros[0:5:1]
 ``` 
 _Salida:_
