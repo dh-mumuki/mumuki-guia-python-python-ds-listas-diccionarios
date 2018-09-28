@@ -14,8 +14,14 @@ Veamos como se puede declarar una lista:
 # una lista vacia
 []
 
+# una lista con distintos tipos de datos
+
+[-4, 1, 5, 'python', 10, 'etc', 3.44]
+
 ```
-En esta demostración declaramos 3 listas, una con enteros, otra con strings, y una lista vacía.
+En esta demostración declaramos 4 listas, una con enteros, otra con strings, una lista vacía y una con tipos de datos mixtos.
+
+En python las listas pueden contener t
 
 
 #### Accediendo a los elementos dentro de una lista
