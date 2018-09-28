@@ -124,6 +124,7 @@ _Salida:_
 **> [1, 2, 3, 5]**
 
 Otra demostración
+
 ``` python
 # definimos una lista vacía 
 lista_1 = []
