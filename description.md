@@ -109,4 +109,4 @@ Para utilizar alguno de estos métodos es necesario primero inicializar una list
 
 Este método se utiliza para agregar un elemento al final de una lista.
 
-El modo de uso es *lista.append(elemento_nuevo)*
+El modo de uso es *lista.append(elemento_nuevo)*, entonces el *append* toma el *elemento_nuevo* y lo incluye en la última posición de *lista*
