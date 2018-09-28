@@ -22,7 +22,7 @@ En esta demostración declaramos 3 listas, una con enteros, otra con strings, y 
 
 Cada elemento dentro de una lista tiene una posición y es posible referirse a uno o alguno de estos elementos.
 
-Para acceder a uno de estos elementos se debe numerar cada elemento de la lista desde cero, o sea el primer elemento es el elemento 0, el segundo 1, y asi sucesivamente, este número se conoce como índice.
+Para acceder a uno de estos elementos se debe numerar cada elemento de la lista desde cero, o sea el primer elemento es el elemento 0, el segundo 1, y asi sucesivamente, este número que indica la posición del elemento dentro de la lista se conoce como índice.
 
 Para utilizar el indice, se debe indicar el número correspondiente a la posicion del elemento y ubicarlo dentro de dos corchetes `[lista][n°elemento]`
 
