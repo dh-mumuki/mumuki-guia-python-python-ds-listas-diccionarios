@@ -40,4 +40,12 @@ _Salida:_
 _Salida:_
 **> python**
 
+Al momento de acceder a un elemento de la lista, podemos utilizarlo como el tipo de datos que es.
+
+``` python
+# 0  1  2  3   4    5
+[-4, 1, 5, 10, 33, -10][3] + [-4, 1, 5, 10, 33, -10][0]
+``` 
+_Salida:_
+**> 6**
 
