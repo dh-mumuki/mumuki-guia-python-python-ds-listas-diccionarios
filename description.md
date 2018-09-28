@@ -105,4 +105,8 @@ Estos métodos son instrucciones que permiten llevar a cabo operaciones como:
 
 Para utilizar alguno de estos métodos es necesario primero inicializar una lista.
 
-##### Método append.
+#### Método append.
+
+Este método se utiliza para agregar un elemento al final de una lista.
+
+El modo de uso es *lista.append(elemento_nuevo)*
