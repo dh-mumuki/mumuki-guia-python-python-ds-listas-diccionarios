@@ -123,7 +123,21 @@ lista_enteros
 _Salida:_
 **> [1, 2, 3, 5]**
 
+Otra demostración
+``` python
+# definimos una lista vacía 
+lista_1 = []
 
+lista_1.append('hola')
+
+lista_1.append(33)
+
+lista_1
+``` 
+_Salida:_
+**> ['hola', 33]**
+
+En este útimo caso, inicializamos una lista vacía e invocamos el método append para poblar esa lista, a veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
 
 #### Método sort.
 
@@ -158,3 +172,16 @@ _Salida:_
 
 Los diccionarios al igual que las listas, permiten mantener elementos dentro de una estructura, pero a diferencia de las listas, los elementos dentro de un diccionario no poseen un orden de precedencia intencionado, esto significa, que uno no accede a los elementos con un índice de posición, en los diccionarios se accede por una **llave**.
 
+Una **llave** debe ser un tipo string, y no debe estar repetido, ya que se definió que para cada elemento dentro del diccionario debe existir una **llave** inequívoca.
+
+A continuación vemos algunas formas de definir diccionarios.
+
+``` python
+
+masa = {'auto': 3000, 'bicleta': 22, 'perro': 5 }
+
+ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
+
+vacio = {}
+
+```
