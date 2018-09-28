@@ -18,5 +18,11 @@ Veamos como se puede declarar una lista:
 En esta demostración declaramos 3 listas, una con enteros, otra con strings, y una lista vacía.
 
 
+#### Accediendo a los elementos dentro de una lista
+
+Cada elemento dentro de una lista tiene una posición y es posible referirse a uno o alguno de estos objetos.
+
+
+
 
 
