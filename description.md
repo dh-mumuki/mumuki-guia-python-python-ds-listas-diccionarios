@@ -105,4 +105,4 @@ Estos métodos son instrucciones que permiten llevar a cabo operaciones como:
 
 Para utilizar alguno de estos métodos es necesario primero inicializar una lista.
 
-
+##### Método append.
