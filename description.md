@@ -56,7 +56,7 @@ Es posible asignar a una nombre a una lista, y desde ahi, referirse a algún ele
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 
-lista_eneteros[0]
+lista_enteros[0]
 ``` 
 _Salida:_
 **> -4**
@@ -67,5 +67,5 @@ Como habíamos comentado también es posible acceder a un conjunto de éstos ele
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 
-lista_eneteros[0]
+lista_enteros[0]
 ``` 
