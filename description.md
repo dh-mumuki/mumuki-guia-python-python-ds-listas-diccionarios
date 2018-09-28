@@ -173,7 +173,7 @@ _Salida:_
 
 Los diccionarios al igual que las listas, permiten mantener elementos dentro de una estructura, pero a diferencia de las listas, los elementos dentro de un diccionario no poseen un orden de precedencia intencionado, esto significa, que uno no suele acceder a los elementos con un índice de posición, en los diccionarios se accede por una **llave**.
 
-Una **llave** debe ser un tipo string, y no debe estar repetido, ya que se definió que para cada elemento dentro del diccionario debe existir una **llave** inequívoca.
+Una **llave** debe ser un tipo string o numérico, y no debe estar repetido, ya que se definió que para cada elemento dentro del diccionario debe existir una **llave** única.
 
 A continuación vemos algunas formas de definir diccionarios.
 
@@ -186,3 +186,12 @@ ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
 vacio = {}
 
 ```
+
+Para referirnos a un elemento del diccionario debemos utilizar la **llave** para el que ese elemento fue asignado.
+
+
+
+#### Operaciones sobre diccionarios.
+
+
+
