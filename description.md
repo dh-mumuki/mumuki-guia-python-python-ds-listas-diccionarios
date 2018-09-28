@@ -116,7 +116,39 @@ lista_enteros = [1, 2, 3]
 
 lista_enteros.append(5)
 
-lista
+lista_enteros
 ``` 
 _Salida:_
 **> [1, 2, 3, 5]**
+
+
+
+#### Método sort.
+
+El método sort permite ordenar los elementos de la lista según un criterio, para eso, los elementos deben tener un comparador interno que permita llevar adelante el ordenamiento, en el caso de los números, este comparador se encuentra definido, pero podría no estarlo para otro tipo de datos.
+
+``` python
+lista_enteros = [3, 2, 2.5,  5]
+
+lista_enteros.sort()
+
+lista_enteros
+``` 
+_Salida:_
+**> [2, 2.5, 3, 5]**
+
+#### Método remove 
+
+Este método permite buscar un elemento dado, si el elemento existe, entonces lo quita de la lista.
+
+``` python
+lista_enteros = [3, 2, 2.5,  5]
+
+lista_enteros.remove(2)
+
+lista_enteros
+``` 
+_Salida:_
+**> [3, 2.5,  5]**
+
+
