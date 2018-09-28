@@ -27,9 +27,11 @@ Para acceder a uno de estos elementos se debe numerar cada elemento de la lista 
 Para utilizar el indice, se debe indicar el número correspondiente a la posicion del elemento y ubicarlo dentro de dos corchetes `[n°]`
 
 ``` python
-# una lista con enteros
+# 0  1  2  3   4     5
 [-4, 1, 5, 10, 33, -10][3]
 ``` 
+    _Salida:_
+**> 10**
 
 ``` python
 # una lista con strings
