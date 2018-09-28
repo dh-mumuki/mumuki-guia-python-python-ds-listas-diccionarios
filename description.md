@@ -32,7 +32,7 @@ Para acceder a uno de estos elementos se debe:
   
   * numerar cada elemento de la lista desde cero, o sea el primer elemento es el elemento 0, el segundo 1, y asi sucesivamente, este número que indica la posición del elemento dentro de la lista se conoce como índice.
 
-  * indicar éste índice dentro de dos corchetes `[lista][índice]`
+  * indicar éste índice dentro de dos corchetes `lista[índice]`
 
 ``` python
 # 0  1  2  3   4    5
