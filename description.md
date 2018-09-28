@@ -170,7 +170,7 @@ _Salida:_
 
 ## Estructura de datos: Diccionario
 
-Los diccionarios al igual que las listas, permiten mantener elementos dentro de una estructura, pero a diferencia de las listas, los elementos dentro de un diccionario no poseen un orden de precedencia intencionado, esto significa, que uno no accede a los elementos con un índice de posición, en los diccionarios se accede por una **llave**.
+Los diccionarios al igual que las listas, permiten mantener elementos dentro de una estructura, pero a diferencia de las listas, los elementos dentro de un diccionario no poseen un orden de precedencia intencionado, esto significa, que uno no suele acceder a los elementos con un índice de posición, en los diccionarios se accede por una **llave**.
 
 Una **llave** debe ser un tipo string, y no debe estar repetido, ya que se definió que para cada elemento dentro del diccionario debe existir una **llave** inequívoca.
 
