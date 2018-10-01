@@ -83,7 +83,9 @@ _Salida:_
 
 A diferencia del llamado al índice, el slicing devuelve una sublista de elementos.
 
-En éste slice no se observa el elemento -10 que ocupa la posición 5, esto es porque el último elemento señalado no se incluye.
+En éste último slice no se observa el elemento -10 que ocupa la posición 5, esto es porque el último elemento señalado no se incluye.
+
+A continuación otro ejemplo de slicing.
 
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
