@@ -255,7 +255,7 @@ _Salida:_
 
 ### Slicing sobre tuplas
 
-Tanto el indexing como el slicing se pueden realizar sobre una tupla, pero la diferencia es que no es posible acceder a los elementos de la tupla para asignarlos.
+Tanto el indexing como el slicing se pueden realizar sobre una tupla, pero la diferencia con respecto a la lista, es que para la tupla no es posible acceder a los elementos de la tupla para asignarlos.
 
 ``` python
 # definimos una tupla
