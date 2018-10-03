@@ -201,7 +201,14 @@ Los diccionarios también tienen asociados un conjunto de funciones que podrían
 
 Es como el append de listas pero para diccionarios, permite incluir datos dentro de un diccionario.
 
+``` python
 
+ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
+
+
+``` 
+_Salida:_
+**> [2, 2.5, 3, 5]**
 
 
 
