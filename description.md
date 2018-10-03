@@ -195,5 +195,16 @@ Para referirnos a un elemento del diccionario debemos utilizar la **llave** para
 
 #### Operaciones sobre diccionarios.
 
+Los diccionarios también tienen asociados un conjunto de funciones que podrían resultar útiles para manipular los datos contenidos.
 
+#### Método update.
+
+Es como el append de listas pero para diccionarios, permite incluir datos dentro de un diccionario.
+
+
+
+
+
+
+## Estructura de datos: Tuplas
 
