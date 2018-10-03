@@ -71,6 +71,19 @@ lista_enteros[0]
 _Salida:_
 **> -4**
 
+Pero el acceso a los elementos por el índice no solo permiten recuperar al elemento, sino que tambien es posible apuntar al elemento para hacer modificaciones sobre él.
+
+``` python
+lista_enteros = [-4, 1, 5, 10, 33, -10]
+
+lista_enteros[0] = 100
+
+print(lista_enteros)
+``` 
+_Salida:_
+**> [100, 1, 5, 10, 33, -10]**
+
+
 Como habíamos comentado también es posible acceder a un conjunto de éstos elementos, a este recurso se le conoce como slicing, para hacer un slicing debemos indicar dentro de dos corchetes y separado por dos puntos,  el elemento de inicio, el de final (no se incluye) y el salto, `[lista][inicio:fin:salto]`, veamos algunos ejemplos
 
 ``` python
@@ -222,4 +235,6 @@ _Salida:_
 
 
 ## Estructura de datos: Tuplas
+
+La tupla es una estructura de datos parecida a las listas, la diferencia es que esta estructura es inmutable, es decir que no permite las transformaciones que las listas soportan, como el append o el sort. Y no es posible realizar un cambio en los elementos que contiene, sin que internamente sea destruída y vuelta a construir.
 
