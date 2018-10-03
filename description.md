@@ -37,15 +37,15 @@ Para acceder a uno de estos elementos se debe:
   * indicar éste índice dentro de dos corchetes `lista[índice]`
 
 ``` python
-# 0  1  2  3   4    5
-[-4, 1, 5, 10, 33, -10][3]
+#       0  1  2  3   4    5
+print([-4, 1, 5, 10, 33, -10][3])
 ``` 
 _Salida:_
 **> 10**
 
 ``` python
-# 0       1         2
-['hola', 'python', 'etc'][1]
+#       0       1         2
+print(['hola', 'python', 'etc'][1])
 ``` 
 _Salida:_
 **> python**
@@ -53,8 +53,8 @@ _Salida:_
 Al momento de acceder a un elemento de la lista, podemos utilizarlo como el tipo de datos que es.
 
 ``` python
-# 0  1  2  3   4    5
-[-4, 1, 5, 10, 33, -10][3] + [-4, 1, 5, 10, 33, -10][0]
+#       0  1  2  3   4    5          0  1  2  3   4    5
+print([-4, 1, 5, 10, 33, -10][3] + [-4, 1, 5, 10, 33, -10][0])
 ``` 
 _Salida:_
 **> 6**
@@ -66,7 +66,7 @@ Es posible asignar a una nombre a una lista, y desde ahi, referirse a algún ele
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 
-lista_enteros[0]
+print(lista_enteros[0])
 ``` 
 _Salida:_
 **> -4**
@@ -88,8 +88,9 @@ Como habíamos comentado también es posible acceder a un conjunto de éstos ele
 
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
-#lista[inicio:fin:salto]
-lista_enteros[0:5:1]
+
+#       lista[inicio:fin:salto]
+print(lista_enteros[0:5:1])
 ``` 
 _Salida:_
 **> [-4, 1, 5, 10, 33]**
@@ -103,7 +104,7 @@ A continuación otro ejemplo de slicing.
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 
-lista_enteros[0:5:2]
+print(lista_enteros[0:5:2])
 ``` 
 _Salida:_
 **> [-4, 5, 33]**
@@ -133,7 +134,7 @@ lista_enteros = [1, 2, 3]
 
 lista_enteros.append(5)
 
-lista_enteros
+print(lista_enteros)
 ``` 
 _Salida:_
 **> [1, 2, 3, 5]**
@@ -148,7 +149,7 @@ lista_1.append('hola')
 
 lista_1.append(33)
 
-lista_1
+print(lista_1)
 ``` 
 _Salida:_
 **> ['hola', 33]**
@@ -164,7 +165,7 @@ lista_enteros = [3, 2, 2.5,  5]
 
 lista_enteros.sort()
 
-lista_enteros
+print(lista_enteros)
 ``` 
 _Salida:_
 **> [2, 2.5, 3, 5]**
@@ -178,7 +179,7 @@ lista_enteros = [3, 2, 2.5,  5]
 
 lista_enteros.remove(2)
 
-lista_enteros
+print(lista_enteros)
 ``` 
 _Salida:_
 **> [3, 2, 2.5,  5]**
