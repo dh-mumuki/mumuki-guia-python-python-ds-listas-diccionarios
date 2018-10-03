@@ -186,12 +186,17 @@ masa = {'auto': 3000, 'bicleta': 22, 'perro': 5 }
 ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
 
 vacio = {}
-
 ```
 
 Para referirnos a un elemento del diccionario debemos utilizar la **llave** para el que ese elemento fue asignado.
 
+``` python
+ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
 
+print(ubicacion['direccion'])
+```
+_Salida:_
+**> monroe 860**
 
 #### Operaciones sobre diccionarios.
 
