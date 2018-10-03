@@ -202,13 +202,16 @@ Los diccionarios también tienen asociados un conjunto de funciones que podrían
 Es como el append de listas pero para diccionarios, permite incluir datos dentro de un diccionario.
 
 ``` python
-
+# definimos un diccionario
 ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
 
+# agregamos un nuevo elemento al diccionario
+ubicacion.update({'ciudad': 'CABA'})
 
+print(ubicacion)
 ``` 
 _Salida:_
-**> [2, 2.5, 3, 5]**
+**> {'ciudad': 'CABA', 'direccion': 'monroe 860', 'lugar': 'digital_house'}**
 
 
 
