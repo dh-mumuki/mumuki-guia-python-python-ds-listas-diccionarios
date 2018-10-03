@@ -237,5 +237,32 @@ _Salida:_
 
 ## Estructura de datos: Tuplas
 
-La tupla es una estructura de datos parecida a las listas, la diferencia es que esta estructura es inmutable, es decir que no permite las transformaciones que las listas soportan, como el append o el sort. Y no es posible realizar un cambio en los elementos que contiene, sin que internamente sea destruída y vuelta a construir.
+La tupla es una estructura de datos parecida a las listas, la diferencia es que esta estructura es inmutable, es decir que no permite las transformaciones que las listas soportan, como el **append** o el **sort**. 
 
+En las tuplas no es posible realizar un cambio en los elementos que contiene, sin que internamente sea destruída y vuelta a construir, por lo que generalmente se suelen agrupar datos estáticos sobre esta estructura.
+
+Para definir una tupla es necesario declarar los elementos contenidos entre paréntesis y poner comas entre cada elemento dentro de la tupla
+
+``` python
+# definimos una tupla
+fruta = ('manzana', 'anana', 'pera', 'banana', 'mandarina' )
+
+# accedemos a un elemento mediante el indice
+print(fruta[2])
+``` 
+_Salida:_
+**> pera**
+
+### Slicing sobre tuplas
+
+Tanto el indexing como el slicing se pueden realizar sobre una tupla, pero la diferencia es que no es posible acceder a los elementos de la tupla para asignarlos.
+
+``` python
+# definimos una tupla
+fruta = ('manzana', 'anana', 'pera', 'banana', 'mandarina' )
+
+# accedemos a un elemento mediante el indice para asignarle otro
+fruta[2] = 'limon'
+``` 
+_Salida:_
+**> TypeError: 'tuple' object does not support item assignment**
