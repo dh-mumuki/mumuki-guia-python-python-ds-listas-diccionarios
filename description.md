@@ -255,8 +255,6 @@ print(fruta[2])
 _Salida:_
 **> pera**
 
-### Slicing sobre tuplas
-
 Tanto el indexing como el slicing se pueden realizar sobre una tupla, pero la diferencia con respecto a la lista, es que para la tupla no es posible acceder a los elementos de la tupla para asignarlos.
 
 ``` python
