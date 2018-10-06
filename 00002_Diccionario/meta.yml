@@ -1,0 +1,18 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: "'llave2'"
+  checked: false
+- value: Error,  ya que no existe la llave declarada
+  checked: true
+- value: '2'
+  checked: false
+- value: "'llave_2' : 2"
+  checked: false
+name: Diccionario
