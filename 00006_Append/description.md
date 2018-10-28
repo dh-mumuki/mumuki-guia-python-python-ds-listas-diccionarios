@@ -30,3 +30,13 @@ _Salida:_
 **> ['hola', 33]**
 
 En este útimo caso, inicializamos una lista vacía e invocamos el método append para poblar esa lista, a veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
+
+
+¿Que resultado esta contenido en la variable **mi_lista** después de la ejecución?
+
+``` python
+mi_lista = [0, 1, 3]
+
+mi_lista.append([3, 4])
+
+```
