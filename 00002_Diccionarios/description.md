@@ -1,14 +1,14 @@
 ## Estructura de datos: Diccionario
 
-Los diccionarios al igual que las listas, permiten mantener elementos dentro de una estructura, pero a diferencia de las listas, los elementos dentro de un diccionario no poseen un orden de precedencia intencionado, esto significa, que uno no suele acceder a los elementos con un índice de posición, en los diccionarios se accede por una **llave**.
+Los diccionarios, al igual que las listas, permiten mantener elementos dentro de una estructura. Pero a diferencia de estas, los elementos dentro de un diccionario no poseen un orden. Esto significa, que uno no suele acceder a los elementos con un índice de posición sino que en los diccionarios se accede por una **llave**.
 
-Una **llave** debe ser un tipo string o numérico, y no debe estar repetido, ya que se definió que para cada elemento dentro del diccionario debe existir una **llave** única.
+Una **llave** puede ser de tipo string o numérico y no debe estar repetida, ya que se definió que para cada elemento dentro del diccionario debe existir una **llave** única.
 
 A continuación vemos algunas formas de definir diccionarios.
 
 ``` python
 
-masa = {'auto': 3000, 'bicleta': 22, 'perro': 5 }
+ruedas = {'auto': 4, 'bicleta': 2, 'triciclo': 3 }
 
 ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
 
