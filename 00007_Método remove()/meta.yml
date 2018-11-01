@@ -6,4 +6,4 @@ type: reading
 extra_visible: false
 manual_evaluation: false
 choices: []
-name: remove()
+name: Método remove()
