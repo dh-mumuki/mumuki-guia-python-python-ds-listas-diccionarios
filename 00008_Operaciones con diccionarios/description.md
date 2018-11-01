@@ -4,7 +4,7 @@ Los diccionarios también tienen asociados un conjunto de funciones que podrían
 
 #### Método update.
 
-Es como el append de listas pero para diccionarios, permite incluir datos dentro de un diccionario.
+Es como el append de listas pero para diccionarios. Permite incluir datos dentro de un diccionario.
 
 ``` python
 # definimos un diccionario
