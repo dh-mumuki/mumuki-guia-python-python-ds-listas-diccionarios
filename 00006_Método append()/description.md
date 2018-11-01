@@ -29,7 +29,7 @@ print(lista_1)
 _Salida:_
 **> ['hola', 33]**
 
-En este útimo caso, inicializamos una lista vacía e invocamos el método append para poblar esa lista, a veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
+En este útimo caso, inicializamos una lista vacía e invocamos el método append para poblar esa lista. A veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
 
 
 ¿Que resultado esta contenido en la variable **mi_lista** después de la ejecución?
