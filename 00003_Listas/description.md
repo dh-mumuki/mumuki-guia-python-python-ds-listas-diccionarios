@@ -1,6 +1,6 @@
 ## Estructura de datos: Listas
 
-Una forma de agrupar datos en Python es utilizando una lista. Una lista es una estructura de datos que permite mantener en un solo lugar un conjunto de elementos.
+Una forma de agrupar datos en Python es utilizando una lista. Una lista es una estructura de datos que permite mantener en un solo lugar, un conjunto de elementos.
 
 Veamos como se puede declarar una lista:
 
@@ -24,3 +24,6 @@ Cada elemento dentro de la lista debe ir separado por comas, esa es la forma en 
 En esta demostración declaramos 4 listas, una con enteros, otra con strings, una lista vacía y una con tipos de datos mixtos.
 
 En python las listas pueden contener distintos tipos de datos.
+
+
+**Declara un lista con que contenga los números del 1 al tres, inclusive, escrito en strings: uno, dos y tres:**

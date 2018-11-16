@@ -81,4 +81,12 @@ print(lista_enteros[0:5:2])
 _Salida:_
 **> [-4, 5, 33]**
 
-En este ejemplo se observa que el paso es de dos en dos, por eso no incluye los elementos 1 y 10. 
+En este ejemplo se observa que el paso es de dos en dos, por eso no incluye los elementos 1, 10 y -10. 
+
+
+**Dada esta lista varios = [1, a, 2, b, 3, c, 4, d, 5, e], imprimir una lista que contenga:**
+1. Todos los números
+2. Todas todas las letras de la lista.
+3. Las letras vocales.
+4. Todos los números primos.
+5. BONUS --> la misma lista pero en el orden inverso [e, 5, d...
