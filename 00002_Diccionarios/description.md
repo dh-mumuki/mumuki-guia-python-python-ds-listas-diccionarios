@@ -8,7 +8,7 @@ A continuación vemos algunas formas de definir diccionarios.
 
 ``` python
 
-ruedas = {'auto': 4, 'bicleta': 2, 'triciclo': 3 }
+ruedas = {'auto': 4, 'bicicleta': 2, 'triciclo': 3 }
 
 ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
 
@@ -26,7 +26,7 @@ _Salida:_
 **> monroe 860**
 
 
-¿Que imprime el siguiente código?
+**¿Que imprime el siguiente código?**
 
 ``` python
 mi_diccionario = { 'llave1': 1, 'llave2': 2, 'llave3':3 } 
