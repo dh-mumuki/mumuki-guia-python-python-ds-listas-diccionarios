@@ -17,3 +17,21 @@ print(ubicacion)
 ``` 
 _Salida:_
 **> {'ciudad': 'CABA', 'direccion': 'monroe 860', 'lugar': 'digital_house'}**
+
+
+¿Qué pasaría si la llave indicada en el método update ya esxite en el diccionario?<br>
+El método update actulizaría ese elemento, sobreescribiendo el valor asociado. Incluso puedo hacerlo con varios elementos a la vez.
+
+
+``` python
+# actualizamos un elemento del diccionario
+ubicacion.update({'ciudad': 'La Plata', 'pais': 'Argentina'})
+
+print(ubicacion)
+``` 
+_Salida:_
+**> {'ciudad': 'La Plata', 'direccion': 'monroe 860', 'lugar': 'digital_house'}**
+
+
+
+**Les propongo actualizar la lista**
