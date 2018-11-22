@@ -8,15 +8,15 @@ Es como el append de listas pero para diccionarios. Permite incluir datos dentro
 
 ``` python
 # definimos un diccionario
-ubicacion = {'direccion' : 'monroe 860', 'lugar' : 'digital_house' }
+ubicacion = {'direccion' : 'Monroe 860', 'lugar' : 'Digital House' }
 
 # agregamos un nuevo elemento al diccionario
-ubicacion.update({'ciudad': 'CABA'})
+ubicacion.update({'barrio': 'Belgrano'})
 
 print(ubicacion)
 ``` 
 _Salida:_
-**> {'ciudad': 'CABA', 'direccion': 'monroe 860', 'lugar': 'digital_house'}**
+**> {'barrio': 'Belgrano', 'direccion': 'Monroe 860', 'lugar': 'Digital House'}**
 
 
 ¿Qué pasaría si la llave indicada en el método update ya esxite en el diccionario?<br>
@@ -24,14 +24,14 @@ El método update actulizaría ese elemento, sobreescribiendo el valor asociado.
 
 
 ``` python
-# actualizamos un elemento del diccionario
-ubicacion.update({'ciudad': 'La Plata', 'pais': 'Argentina'})
+ubicacion.update({'barrio': 'Nuñez', 'pais': 'Argentina'})
 
 print(ubicacion)
 ``` 
 _Salida:_
-**> {'ciudad': 'La Plata', 'direccion': 'monroe 860', 'lugar': 'digital_house'}**
+**> {'barrio': 'Nuñez', 'direccion': 'Monroe 860', 'lugar': 'Digital House'}**
 
 
 
-**Les propongo actualizar la lista**
+**Les propongo actualizar el siguiente diccionario con los datos de la sede de Digital House, en Brasil: Av. Dr. Cardoso de Melo, 90, Vila Olímpia, Brasil**
+
