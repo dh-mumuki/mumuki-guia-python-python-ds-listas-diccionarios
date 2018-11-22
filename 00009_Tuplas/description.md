@@ -25,7 +25,10 @@ Tanto el indexing como el slicing se pueden realizar sobre una tupla pero la dif
 fruta = ('manzana', 'anana', 'pera', 'banana', 'mandarina' )
 
 # accedemos a un elemento mediante el indice para asignarle otro
-fruta[2] = 'limon'
+fruta[2] = 'limón'
 ``` 
 _Salida:_
 **> TypeError: 'tuple' object does not support item assignment**
+
+<br>
+**Crea un tupla con cinco verduras, donde el tomate este en la segunda posición. Luego, imprime esa verdura.**
