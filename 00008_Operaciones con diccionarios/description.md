@@ -19,8 +19,8 @@ _Salida:_
 **> {'barrio': 'Belgrano', 'direccion': 'Monroe 860', 'lugar': 'Digital House'}**
 
 
-¿Qué pasaría si la llave indicada en el método update ya esxite en el diccionario?<br>
-El método update actulizaría ese elemento, sobreescribiendo el valor asociado. Incluso puedo hacerlo con varios elementos a la vez.
+¿Qué pasaría si la llave indicada en el método update ya existe en el diccionario?  
+El método update actualizaría ese elemento, sobreescribiendo el valor asociado. Incluso puedo hacerlo con varios elementos a la vez. 
 
 
 ``` python
