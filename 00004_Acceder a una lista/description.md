@@ -84,7 +84,7 @@ _Salida:_
 En este ejemplo se observa que el paso es de dos en dos, por eso no incluye los elementos 1, 10 y -10. 
 
 <br>
-**Dada esta lista varios = [1, a, 2, b, 3, c, 4, d, 5, e], imprimir una lista que contenga:**
+**Dada esta lista varios = [1, a, 2, b, 3, c, 4, d, 5, e], imprimir una lista que contenga:**<br>
 1. Todos los números
 2. Todas todas las letras de la lista.
 3. Las letras vocales.
