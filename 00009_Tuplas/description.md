@@ -2,7 +2,7 @@
 
 **La tupla** es una estructura de datos parecida a las listas. La diferencia es que esta estructura es inmutable, es decir, no permite las transformaciones que las listas soportan, como el **append** o el **sort**. 
 
-En las tuplas no es posible realizar una cambio en los elementos que contiene sin que internamente sea destruída y vuelta a construir. Por lo cual, generalmente se suelen agrupar datos estáticos sobre esta estructura.
+En las tuplas no es posible realizar un cambio en los elementos que contiene sin que internamente sea destruída y vuelta a construir. Por lo cual, generalmente se suelen agrupar datos estáticos sobre esta estructura.
 
 Además no es posible realizar una operacion de asignación como veremos al final de este enunciado.
 

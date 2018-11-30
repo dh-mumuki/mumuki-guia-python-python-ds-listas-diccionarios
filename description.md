@@ -1,1 +1,1 @@
-Estructuras de Dato
+Estructuras de Datos
