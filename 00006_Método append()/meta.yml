@@ -1,18 +1,10 @@
 ---
 tags: []
 layout: input_bottom
-editor: single_choice
+editor: code
 type: problem
 extra_visible: false
 language: text
 manual_evaluation: false
-choices:
-- value: "[0, 1, 3, 3, 4]"
-  checked: false
-- value: "[0, 1, 3, [3, 4] ]"
-  checked: true
-- value: "[0, 1 , 3, 4]"
-  checked: false
-- value: Error ya que el método "append" espera números por separado
-  checked: false
+choices: []
 name: Método append()
