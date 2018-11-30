@@ -15,4 +15,4 @@ choices:
   checked: false
 - value: Error, ya que el método "append" espera números por separado
   checked: false
-name: Appendeando
+name: append() de listas
