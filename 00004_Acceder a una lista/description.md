@@ -91,5 +91,3 @@ En este ejemplo se observa que el paso es de dos en dos, por eso no incluye los 
 4. Todos los números primos.
 5. BONUS --> la misma lista pero en el orden inverso [e, 5, d...
 <br>
-
-> En algunos casos te puede servir usarl la función append()!
