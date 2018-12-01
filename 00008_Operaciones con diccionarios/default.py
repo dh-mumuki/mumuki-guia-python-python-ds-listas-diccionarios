@@ -1,1 +1,1 @@
-sede_dh = {'barrio': 'Nuñez', 'direccion': 'Monroe 860', 'lugar': 'Digital House'}
+sede_dh = {'barrio': 'Nunez', 'direccion': 'Monroe 860', 'lugar': 'Digital House'}
