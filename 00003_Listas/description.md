@@ -25,5 +25,4 @@ En esta demostración declaramos 4 listas, una con enteros, otra con strings, un
 
 En python las listas pueden contener distintos tipos de datos.
 
-
-**Declara un lista con que contenga los números del 1 al tres, inclusive, escrito en strings: uno, dos y tres:**
+:memo: **Declara un lista con que contenga los números del 1 al tres, inclusive, escrito en strings: uno, dos y tres:**
