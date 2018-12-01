@@ -26,7 +26,7 @@ _Salida:_
 **> monroe 860**
 
 
-**¿Que imprime el siguiente código?**
+:memo:**Escribe un diccionario**
 
 ``` python
 mi_diccionario = { 'llave1': 1, 'llave2': 2, 'llave3':3 } 
