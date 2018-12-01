@@ -14,5 +14,5 @@ _Salida:_
 
 
 
-**Dada la siguiente lista elmine el elemento que no corresponda**<br>
+:memo:**Dada la siguiente lista elmine el elemento que no corresponda**<br>
 **["string", "boolean", "integer", "remove()", "float" ]**
