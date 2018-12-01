@@ -1,6 +1,3 @@
 class TestFixtures(unittest.TestCase):
-  
-  print(locals())
-  
-  def test_unicos(self):
-    self.assertEquals(lista_de_unicos([1,2,3,3,3,3,4,5]),[1, 2, 3, 4, 5])
+  def test_numeros(self):
+    self.assertEquals(numeros_escritos, ["uno", "dos", "tres"]])
