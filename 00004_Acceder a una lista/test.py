@@ -15,4 +15,4 @@ class TestFixtures(unittest.TestCase):
     self.assertEquals(primos, [1, 3, 5])
 
   def test_numeros(self):
-    self.assertEquals(bonus,  ['e', 5, 'd', 4, 'c', 3, 'b', 2, 'a', 1])
+    self.assertEquals(inverso,  ['e', 5, 'd', 4, 'c', 3, 'b', 2, 'a', 1])
