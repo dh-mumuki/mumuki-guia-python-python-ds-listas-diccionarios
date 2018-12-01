@@ -33,5 +33,5 @@ _Salida:_
 
 
 
-**Les propongo actualizar el siguiente diccionario con los datos de la sede de Digital House, en Brasil: Av. Dr. Cardoso de Melo, 90, Vila Olímpia, Brasil**
+:memo: **Les propongo actualizar el siguiente diccionario con los datos de la sede de Digital House, en Brasil: Av. Dr. Cardoso de Melo, 90, Vila Olímpia, Brasil. Sería buena idea agregar el pais, ya que esa llave no existe.**
 

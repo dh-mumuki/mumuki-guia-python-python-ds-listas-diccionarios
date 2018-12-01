@@ -26,11 +26,4 @@ _Salida:_
 **> monroe 860**
 
 
-:memo:**Escribe un diccionario**
-
-``` python
-mi_diccionario = { 'llave1': 1, 'llave2': 2, 'llave3':3 } 
-
-print(mi_diccionario[2])
-
-```
+:memo:**Escribe un diccionario que tenga como llave nombre, apellido y mail, y completenlo con sus datos. **
