@@ -32,10 +32,10 @@ _Salida:_
 En este útimo caso, inicializamos una lista vacía e invocamos el método append para poblar esa lista. A veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
 
 <br>
-Es hora de nuestro primer append!<br>
-Creen una lista vacia, y agreguen los siguientes elmentos:<br>
-1. 'python'
-2. '43'
-3. '45.24'
+:memo:**Es hora de nuestro primer append!**<br>
+**Creen una lista vacia, y agreguen los siguientes elementos en orden:**<br>
+1. "python"
+2. 43
+3. 45.24
 4. False
 5. [2,4,5]
