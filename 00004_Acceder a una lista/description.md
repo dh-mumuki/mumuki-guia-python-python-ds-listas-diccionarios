@@ -79,9 +79,9 @@ print(lista_enteros[0:5:1])
 > :memo: **Dada esta lista: <br>
 varios = [1, a, 2, b, 3, c, 4, d, 5, e] <br>
 Imprimir una lista que contenga:**<br>
-1. Todos los números <br>
+1. Todos los números de la lista<br>
 2. Todas todas las letras de la lista. <br>
-3. Las letras vocales. <br>
-4. Todos los números primos. <br>
+3. Las letras vocales que aparecen en la lista. <br>
+4. Todos los números primos de la lista. <br>
 5. La misma lista pero en el orden inverso [e, 5, d...
 <br>
