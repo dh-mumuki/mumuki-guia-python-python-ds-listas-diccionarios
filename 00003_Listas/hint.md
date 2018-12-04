@@ -1,1 +1,1 @@
-Acordate que esten en formato `string`!
+Acordate que deben estar en formato `string`!
