@@ -1,5 +1,5 @@
 Una forma de agrupar datos en Python es utilizando una lista. <br>
-Una lista es una estructura de datos que permite mantener en un solo lugar, un conjunto de elementos.
+Una lista es una estructura de datos que permite mantener en un solo lugar un conjunto de elementos.
 
 Veamos como se puede declarar una lista:
 
