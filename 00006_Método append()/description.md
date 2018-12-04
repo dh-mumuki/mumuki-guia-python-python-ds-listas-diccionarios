@@ -27,7 +27,7 @@ print(lista_1)
 En este útimo caso, lo que hicimos fue inicializar una lista vacía e invocamos el método append para poblar esa lista. A veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
 
 
-> :memo:**Es hora de nuestro primer append!**<br> 
+> :memo: **Es hora de nuestro primer append!**<br> 
 **Creá una lista vacia y agregá los siguientes elementos en orden:**<br>
 1. "python"<br>
 2. 43<br>
