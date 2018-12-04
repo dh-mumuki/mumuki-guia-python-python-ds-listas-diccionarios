@@ -1,4 +1,4 @@
-#### Operaciones sobre listas.
+#### Operaciones sobre listas
 
 Las listas en Python tienen métodos asociados que permiten realizar alguna acción sobre ellas.
 
@@ -10,3 +10,4 @@ Estos métodos son instrucciones que permiten llevar a cabo operaciones como:
   * Ordenar los elementos según alguna propiedad
 
 Para utilizar alguno de estos métodos es necesario primero inicializar una lista.
+En los siguientes ejercicios te vamos a enseñar cómo usar estos métodos ¿Seguimos? :wink:
