@@ -21,8 +21,5 @@ print(ubicacion['direccion'])
 ム
 > monroe 860
 ```
-En el ejemplo se puede ver que para acceder a monroe 860 se utiliza la llave dirección que está definida en el diccionario. Para definir una **llave** debemos escribir:
-`"nombre_de_la_llave" : elemento_de_la_lista`
-
 
 >  :memo: **Escribí un diccionario que tenga como llave nombre, apellido y mail. Luego completalo con tus datos** 
