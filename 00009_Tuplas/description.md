@@ -17,7 +17,7 @@ print(fruta[2])
 ``` 
 
 Tanto el indexing como el slicing se pueden realizar sobre una tupla pero la diferencia con respecto a la lista es que, para la tupla, no es posible acceder a los elementos para asignarlos.
-Veamos qué pasa hacemos esto:
+Veamos qué pasa si hacemos esto:
 
 ``` python
 # definimos una tupla
