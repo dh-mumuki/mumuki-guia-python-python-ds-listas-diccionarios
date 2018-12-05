@@ -5,7 +5,7 @@ lista_enteros = [-4, 1, 5, 10, 33, -10]
 print (lista_enteros[0::1])
 
 ム
-> [-4, 1, 5, 10, 33]
+> [-4, 1, 5, 10, 33, -10]
 ```
 
 Te damos otra pista: <br>
