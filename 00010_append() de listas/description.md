@@ -1,4 +1,4 @@
-:memo:**¿Que resultado esta contenido en la variable **mi_lista** después de la ejecución?**
+> :memo:**¿Qué resultado está contenido en la variable `mi_lista` después de la ejecución?**
 
 ``` python
 mi_lista = [0, 1, 3]
