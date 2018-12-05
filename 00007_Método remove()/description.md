@@ -3,9 +3,7 @@ Veamos un ejemplo:
 
 ``` python
 lista_enteros = [3, 2, 2.5,  5]
-
 lista_enteros.remove(2)
-
 print(lista_enteros)
 
 ム
