@@ -3,6 +3,9 @@ Si te resulta más fácil, no hace falta que aclares dónde termina la lista, po
 ``` python
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 print (lista_enteros[0::1])
+
+ム
+> [-4, 1, 5, 10, 33]
 ```
 
 Te damos otra pista: <br>
