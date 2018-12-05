@@ -1,5 +1,3 @@
-#### Accediendo a los elementos dentro de una lista
-
 Para acceder a uno de estos elementos se debe:
   
   * Numerar cada elemento de la lista desde cero. El primer elemento es el elemento 0, el segundo 1, y así sucesivamente. Este número que indica la posición del elemento dentro de la lista, se conoce como **índice.**

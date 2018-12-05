@@ -1,0 +1,1 @@
+Si querés recorrer la lista en sentido inverso, tenés que definir el paso como -1 
