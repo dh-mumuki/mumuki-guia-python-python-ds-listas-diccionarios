@@ -1,4 +1,4 @@
-Este método permite buscar y remover un elemento dado. Para hacerlo tenemos que poner entre paréntesis el elemento. 
+Este método permite buscar y remover un elemento dado. Para hacerlo tenemos que poner entre paréntesis el elemento y no la posición.  
 Veamos un ejemplo:
 
 ``` python
