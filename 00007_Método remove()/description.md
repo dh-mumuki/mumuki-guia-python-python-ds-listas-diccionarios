@@ -9,4 +9,4 @@ print(lista_enteros)
 ``` 
 
 > :memo: **Dada la siguiente lista, elminá el elemento que no corresponda**<br>
-**["gato", "pie", "raton", "perro", "oso" ]**
+**["gato", "torta", "raton", "perro", "oso" ]**
