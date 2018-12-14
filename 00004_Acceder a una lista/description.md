@@ -9,16 +9,12 @@ Veamos un ejemplo:
 ``` python
 #       0  1  2  3   4    5 
 print([-4, 1, 5, 10, 33, -10][3])
-
-ム
 >10
 ``` 
 
 ``` python
 #       0       1         2
 print(['hola', 'python', 'etc'][1])
-
-ム
 >python
 ``` 
 
@@ -27,8 +23,6 @@ Al momento de acceder a un elemento de la lista también podemos utilizarlo como
 ``` python
 #       0  1  2  3   4    5          0  1  2  3   4    5
 print([-4, 1, 5, 10, 33, -10][3] + [-4, 1, 5, 10, 33, -10][0])
-
-ム
 > 6
 ``` 
 
@@ -40,8 +34,6 @@ También es posible asignar un nombre a una lista y desde ahí referirse a algú
 lista_enteros = [-4, 1, 5, 10, 33, -10]
 
 print(lista_enteros[0])
-
-ム
 > -4
 ``` 
 
@@ -53,8 +45,6 @@ lista_enteros = [-4, 1, 5, 10, 33, -10]
 lista_enteros[0] = 100
 
 print(lista_enteros)
-
-ム
 > [100, 1, 5, 10, 33, -10]
 ``` 
 
@@ -68,8 +58,6 @@ lista_enteros = [-4, 1, 5, 10, 33, -10]
 
 #       lista[inicio:fin:salto]
 print(lista_enteros[0:5:1])
-
-ム
 > [-4, 1, 5, 10, 33]
 ``` 
 
