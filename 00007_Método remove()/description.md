@@ -5,10 +5,8 @@ Veamos un ejemplo:
 lista_enteros = [3, 5, 2.5, 2]
 lista_enteros.remove(2)
 print(lista_enteros)
-
-ム
 > [3, 2.5,  5]
 ``` 
 
 > :memo: **Dada la siguiente lista, elminá el elemento que no corresponda**<br>
-**["string", "boolean", "integer", "remove()", "float" ]**
+**["gato", "pie", "raton", "perro", "oso" ]**
