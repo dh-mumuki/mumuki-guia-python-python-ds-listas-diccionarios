@@ -8,8 +8,6 @@ Veamos unos ejemplos:
 lista_enteros = [1, 2, 3]
 lista_enteros.append(5)
 print(lista_enteros)
-
-ム
 > [1, 2, 3, 5]
 ``` 
 
@@ -19,8 +17,6 @@ lista_1 = []
 lista_1.append('hola')
 lista_1.append(33)
 print(lista_1)
-
-ム
 > ['hola', 33]
 ``` 
 
