@@ -1,6 +1,6 @@
 class TestFixtures(unittest.TestCase):
   def test_listas_barrio(self):
-    self.assertTrue("vila" in sede_dh['barrios'].lower())
+    self.assertTrue("vila" in sede_dh['barrio'].lower())
     
   def test_listas_direccion(self):
     self.assertTrue("cardoso" in sede_dh['direccion'].lower())
