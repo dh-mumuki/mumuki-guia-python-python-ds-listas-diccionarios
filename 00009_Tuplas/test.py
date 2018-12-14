@@ -6,4 +6,4 @@ class TestFixtures(unittest.TestCase):
     self.assertEquals(len(verduras), 5, "El contenedor no tiene 5 elementos")
   
   def test_tupla(self):
-    assertIsInstance(verduras, tuple, "El elemento no es una tupla")
+    self.assertIsInstance(verduras, tuple, "El elemento no es una tupla")
