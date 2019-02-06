@@ -19,4 +19,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Error, ya que el método "append" espera números por separado
   checked: false
-name: append() de listas
+name: Método append()
