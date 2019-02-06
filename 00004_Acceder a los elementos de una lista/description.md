@@ -77,7 +77,7 @@ print(lista_enteros[:2:-1])
 <br>
 > :memo: **Dada esta lista: <br>
       varios = [1, a, 2, b, 3, c, 4, d, 5, e] <br>
-Imprimí listas que contengan:**<br>
+Definí listas que contengan:**<br>
 1. Todos los números de la lista<br>
 2. Todas todas las letras de la lista. <br>
 3. Las letras vocales que aparecen en la lista. <br>
