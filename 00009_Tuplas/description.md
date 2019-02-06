@@ -39,4 +39,4 @@ frutas[2] = 'limón'
 ``` 
 <br>
 
-> :memo: **Creá una tupla con cinco verduras, donde la lechuga esté en la segunda posición. Luego, imprimí esa verdura.**
+> :memo: **Creá una tupla con cinco verduras, donde el tomate esté en la segunda posición. Luego, imprimí esa verdura.**
