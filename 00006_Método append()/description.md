@@ -1,6 +1,6 @@
 Este método se utiliza para agregar un elemento al final de una lista.
 
-El modo de uso es **lista.append(elemento_nuevo)**, entonces el **"append"** toma el **"elemento_nuevo"** y lo incluye en la última posición de **"lista"** <br>
+El modo de uso es **lista.append(elemento_nuevo)**, entonces el **`append()`** toma el **"elemento_nuevo"** y lo incluye en la última posición de **"lista"**.<br>
 
 Veamos unos ejemplos:
 
@@ -20,11 +20,10 @@ print(lista_1)
 > ['hola', 33]
 ``` 
 
-En este útimo caso, lo que hicimos fue inicializar una lista vacía e invocamos el método append para poblar esa lista. A veces es necesario obtener una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
+En este útimo caso, lo que hicimos fue inicializar una lista vacía e invocamos el método `append()` para poblar esa lista. A veces es necesario generar una lista vacía, cuando veamos los iteradores vamos a conocer la importancia de este recurso.
 
-
-> **Es hora de nuestro primer append!**<br> 
-:memo:  **Creá una lista vacia y agregá los siguientes elementos en orden:**<br>
+> **¡Es hora de nuestro primer append!**<br> 
+:memo: **Creá una lista vacía y agregá los siguientes elementos en orden:**<br>
 1. "python"<br>
 2. 43<br>
 3. 45.24<br>
