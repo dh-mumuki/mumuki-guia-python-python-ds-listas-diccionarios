@@ -1,4 +1,4 @@
-Los diccionarios, al igual que las listas, permiten agrupar elementos dentro de una estructura. Pero a diferencia de estas, los elementos dentro de un diccionario no poseen un orden. Los diccionarios se definen con llaves ({}). Dentro de un diccionario, los elementos se expresan como **pares clave:valor**.
+Los diccionarios, al igual que las listas, permiten agrupar elementos dentro de una estructura. Los diccionarios se definen con llaves ({}). Dentro de un diccionario, los elementos se expresan como **pares clave:valor**.
 
 A continuación te mostramos cómo definir algunos diccionarios:
 
