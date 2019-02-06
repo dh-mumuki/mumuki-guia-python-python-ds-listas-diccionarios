@@ -7,12 +7,16 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: "[0, 1, 3, 3, 4]"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[0, 1, 3, 3, 4]"
   checked: false
-- value: "[0, 1, 3, [3, 4] ]"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[0, 1, 3, [3, 4] ]"
   checked: true
-- value: "[0, 1 , 3, 4]"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[0, 1 , 3, 4]"
   checked: false
-- value: Error, ya que el método "append" espera números por separado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Error, ya que el método "append" espera números por separado
   checked: false
 name: append() de listas
