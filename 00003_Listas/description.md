@@ -16,6 +16,6 @@ Veamos como se puede declarar una lista:
 # una lista con distintos tipos de datos
 [-4, 1, 5, 'python', 10, 'etc', 3.44]
 ```
-Las listas se definen entre corchetes ([]) y cada elemento dentro de unala lista debe ir separado por comas.
+Las listas se definen entre corchetes ([]) y cada elemento dentro de una lista debe ir separado por comas.
 
 > :memo: **Asignale a una variable llamada `numeros_escritos` una lista con que contenga los números del uno al tres, inclusive, escritos en letras como _strings_:**
