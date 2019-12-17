@@ -11,8 +11,5 @@ class TestFixtures(unittest.TestCase):
   def test_pares(self):
     self.assertEquals(pares, [2, 4], 'El contenido de la lista pares, no es correcto')
 
-  def test_primos(self):
-    self.assertEquals(primos, [2, 3, 5], 'El contenido de la lista primos, deben ser numeros primos.')
-
   def test_inversa(self):
     self.assertEquals(inverso,  ['e', 5, 'd', 4, 'c', 3, 'b', 2, 'a', 1], 'El contenido de la lista inverso, debe ser el mismo contenido de la lista original pero empezando por el final hasta el comienzo.')

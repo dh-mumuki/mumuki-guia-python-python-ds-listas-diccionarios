@@ -81,6 +81,5 @@ Definí listas que contengan:**<br>
 1. Todos los números de la lista<br>
 2. Todas todas las letras de la lista. <br>
 3. Las letras vocales que aparecen en la lista. <br>
-4. Todos los números primos de la lista. <br>
-5. La misma lista pero en el orden inverso [e, 5, d...
+4. La misma lista pero en el orden inverso [e, 5, d...
 <br>
